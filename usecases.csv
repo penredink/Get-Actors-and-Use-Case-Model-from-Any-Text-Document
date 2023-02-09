@@ -1,0 +1,95 @@
+Col1
+system shall display all the products that can be configured.
+system shall allow user to select the product to configure.
+"system shall display all the available components of the product to configure
+3."
+system shall enable user to add one or more component to the configuration.
+system shall notify the user about any conflict in the current configuration.
+system shall allow user to update the configuration to resolve conflict in the current configuration.
+"system shall allow user to confirm the completion of current configuration
+
+3."
+system shall display detailed information of the selected products.
+system shall provide browsing options to see product details.
+system shall display detailed product categorization to the user.
+system shall enable user to enter the search text on the screen.
+system shall enable user to select multiple options on the screen to search.
+"system shall display all the matching products based on the search
+
+the system shall display only 10 matching result on the current screen."
+system shall enable user to navigate between the search results.
+system shall notify the user when no matching product is found on the search.
+system shall allow user to create profile and set his credential.
+system shall authenticate user credentials to view the profile.
+system shall allow user to update the profile information.
+system shall display both the active and completed order history in the customer profile.
+system shall allow user to select the order from the order history.
+system shall display the detailed information about the selected order.
+system shall display the most frequently searched items by the user in the profile.
+system shall allow user to register for newsletters and surveys in the profile.
+"system shall provide online help, faq’s customer support, and sitemap options for customer support."
+system shall allow user to select the support type he wants.
+system shall allow user to enter the customer and product information for the support.
+system shall display the customer support contact numbers on the screen.
+system shall allow user to enter the contact number for support personnel to call.
+system shall display the online help upon request.
+system shall display the faq’s upon request.
+system shall maintain customer email information as a required part of customer profile.
+system shall send an order confirmation to the user through email.
+system shall display detailed invoice for current order once it is confirmed.
+system shall optionally allow user to print the invoice.
+system shall provide shopping cart during online purchase.
+system shall allow user to add/remove products in the shopping cart.
+system shall display different shipping options provided by shipping department.
+system shall enable user to select the shipping method during payment process.
+system shall display the shipping charges.
+system shall display tentative duration for shipping.
+system shall allow user to enter the order information for tracking.
+system shall display the current tracking information about the order.
+system shall calculate tax for the order.
+system shall display tax information for the order.
+system shall display available payment methods for payment.
+system shall allow user to select the payment method for order.
+system shall display the orders that are eligible to change.
+system shall allow user to select the order to be changed.
+"system shall allow user to cancel the order
+
+the system shall allow user to change shipping, payment method."
+system shall notify the user about any changes made to the order.
+"system shall display the reviews and ratings of each product, when it is selected."
+system shall enable the user to enter their reviews and ratings.
+system shall display all the available financing options.
+system shall allow user to select the financing option.
+system shall notify the use about the financing request.
+system shall allow user to view detailed sitemap.
+system shall display all the available promotions to the user.
+system shall allow user to select available promotion.
+system shall allow user to confirm the purchase.
+system shall enable user to enter the payment information.
+system shall provide a uniform look and feel between all the web pages.
+system shall provide a digital image for each product in the product catalog.
+system shall provide use of icons and toolbars.
+system shall provide handicap access.
+system shall provide multi language support.
+system shall provide storage of all databases on redundant computers with automatic switchover.
+system shall provide for replication of databases to off-site storage locations.
+system shall provide raid v disk stripping on all database storage disks.
+system shall provide a contractual agreement with an internet service provider for t3 access with 99.
+system shall provide a contractual agreement with an internet service provider who can provide 99.
+system shall use secure sockets in all transactions that include any confidential customer information.
+system shall automatically log out all customers after a period of inactivity.
+system shall confirm all transactions with the customer’s web browser.
+system shall not leave any cookies on the customer’s computer containing the user’s password.
+system shall not leave any cookies on the customer’s computer containing any of the user’s confidential information.
+system shall be maintained in configuration management tool.
+system shall be built using a standard web page development tool that conforms to either ibm’s cua standards or microsoft’s gui standards.
+system shall communicate with the configurator to identify all the available components to configure the product.
+"system shall communicate with billpay system to identify available payment methods , validate the payments and process payment."
+system shall communicate to credit management system for handling financing options.
+system shall communicate with crm system to provide support.
+system shall communicate with sales system for order management.
+system shall communicate with shipping system for tracking orders and updating of shipping methods.
+system shall communicate with external tax system to calculate tax.
+system shall communicate with export regulation system to validate export regulations.
+system shall be verisign like software which shall allow the users to complete secured transaction.
+system shall use the http protocol for communication over the internet and for the intranet communication will be through tcp/ip protocol suite.
